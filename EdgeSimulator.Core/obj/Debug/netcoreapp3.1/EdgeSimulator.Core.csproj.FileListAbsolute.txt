@@ -1,0 +1,10 @@
+F:\BITS\Edge Computing\Assignment\AzureIotEdge_BitsAssignment_Completed\EdgeSimulator.Core\bin\Debug\netcoreapp3.1\EdgeSimulator.Core.deps.json
+F:\BITS\Edge Computing\Assignment\AzureIotEdge_BitsAssignment_Completed\EdgeSimulator.Core\bin\Debug\netcoreapp3.1\EdgeSimulator.Core.dll
+F:\BITS\Edge Computing\Assignment\AzureIotEdge_BitsAssignment_Completed\EdgeSimulator.Core\bin\Debug\netcoreapp3.1\EdgeSimulator.Core.pdb
+F:\BITS\Edge Computing\Assignment\AzureIotEdge_BitsAssignment_Completed\EdgeSimulator.Core\obj\Debug\netcoreapp3.1\EdgeSimulator.Core.csproj.AssemblyReference.cache
+F:\BITS\Edge Computing\Assignment\AzureIotEdge_BitsAssignment_Completed\EdgeSimulator.Core\obj\Debug\netcoreapp3.1\EdgeSimulator.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\BITS\Edge Computing\Assignment\AzureIotEdge_BitsAssignment_Completed\EdgeSimulator.Core\obj\Debug\netcoreapp3.1\EdgeSimulator.Core.AssemblyInfoInputs.cache
+F:\BITS\Edge Computing\Assignment\AzureIotEdge_BitsAssignment_Completed\EdgeSimulator.Core\obj\Debug\netcoreapp3.1\EdgeSimulator.Core.AssemblyInfo.cs
+F:\BITS\Edge Computing\Assignment\AzureIotEdge_BitsAssignment_Completed\EdgeSimulator.Core\obj\Debug\netcoreapp3.1\EdgeSimulator.Core.csproj.CoreCompileInputs.cache
+F:\BITS\Edge Computing\Assignment\AzureIotEdge_BitsAssignment_Completed\EdgeSimulator.Core\obj\Debug\netcoreapp3.1\EdgeSimulator.Core.dll
+F:\BITS\Edge Computing\Assignment\AzureIotEdge_BitsAssignment_Completed\EdgeSimulator.Core\obj\Debug\netcoreapp3.1\EdgeSimulator.Core.pdb

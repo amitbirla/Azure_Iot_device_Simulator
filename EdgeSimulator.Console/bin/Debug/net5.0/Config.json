@@ -1,0 +1,1 @@
+{"Interval":5000,"Rate":0,"Devices":[{"DeviceId":"BITS12345","Datas":[{"DataKey":"Temperator","MinValue":0,"MaxValue":100},{"DataKey":"Humidity","MinValue":0,"MaxValue":100}]},{"DeviceId":"BITS12345","Datas":[{"DataKey":"Temperator","MinValue":10,"MaxValue":70},{"DataKey":"Humidity","MinValue":20,"MaxValue":50}]}]}

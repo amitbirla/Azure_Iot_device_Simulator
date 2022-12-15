@@ -1,0 +1,12 @@
+F:\BITS\Edge Computing\Assignment\AzureIoTEdgeProject\EdgeSimulator.Base\bin\Debug\net5.0\EdgeSimulator.Base.deps.json
+F:\BITS\Edge Computing\Assignment\AzureIoTEdgeProject\EdgeSimulator.Base\bin\Debug\net5.0\EdgeSimulator.Base.dll
+F:\BITS\Edge Computing\Assignment\AzureIoTEdgeProject\EdgeSimulator.Base\bin\Debug\net5.0\ref\EdgeSimulator.Base.dll
+F:\BITS\Edge Computing\Assignment\AzureIoTEdgeProject\EdgeSimulator.Base\bin\Debug\net5.0\EdgeSimulator.Base.pdb
+F:\BITS\Edge Computing\Assignment\AzureIoTEdgeProject\EdgeSimulator.Base\obj\Debug\net5.0\EdgeSimulator.Base.csproj.AssemblyReference.cache
+F:\BITS\Edge Computing\Assignment\AzureIoTEdgeProject\EdgeSimulator.Base\obj\Debug\net5.0\EdgeSimulator.Base.GeneratedMSBuildEditorConfig.editorconfig
+F:\BITS\Edge Computing\Assignment\AzureIoTEdgeProject\EdgeSimulator.Base\obj\Debug\net5.0\EdgeSimulator.Base.AssemblyInfoInputs.cache
+F:\BITS\Edge Computing\Assignment\AzureIoTEdgeProject\EdgeSimulator.Base\obj\Debug\net5.0\EdgeSimulator.Base.AssemblyInfo.cs
+F:\BITS\Edge Computing\Assignment\AzureIoTEdgeProject\EdgeSimulator.Base\obj\Debug\net5.0\EdgeSimulator.Base.csproj.CoreCompileInputs.cache
+F:\BITS\Edge Computing\Assignment\AzureIoTEdgeProject\EdgeSimulator.Base\obj\Debug\net5.0\EdgeSimulator.Base.dll
+F:\BITS\Edge Computing\Assignment\AzureIoTEdgeProject\EdgeSimulator.Base\obj\Debug\net5.0\ref\EdgeSimulator.Base.dll
+F:\BITS\Edge Computing\Assignment\AzureIoTEdgeProject\EdgeSimulator.Base\obj\Debug\net5.0\EdgeSimulator.Base.pdb

@@ -1,0 +1,7 @@
+services:
+  edgesimulatorconsole:
+    build:
+      context: F:\BITS\Edge Computing\Assignment\AzureIotEdge_BitsAssignment_Completed
+      dockerfile: EdgeSimulator.Console\Dockerfile
+    image: edgesimulatorconsole
+version: '3.4'

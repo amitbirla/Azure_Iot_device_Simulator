@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DeviceDataSet" targetNamespace="http://tempuri.org/DeviceDataSet.xsd" xmlns:mstns="http://tempuri.org/DeviceDataSet.xsd" xmlns="http://tempuri.org/DeviceDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DeviceDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DeviceDataSet" msprop:Generator_UserDSName="DeviceDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Monitoring" msprop:Generator_TableClassName="MonitoringDataTable" msprop:Generator_TableVarName="tableMonitoring" msprop:Generator_TablePropName="Monitoring" msprop:Generator_RowDeletingName="MonitoringRowDeleting" msprop:Generator_RowChangingName="MonitoringRowChanging" msprop:Generator_RowEvHandlerName="MonitoringRowChangeEventHandler" msprop:Generator_RowDeletedName="MonitoringRowDeleted" msprop:Generator_UserTableName="Monitoring" msprop:Generator_RowChangedName="MonitoringRowChanged" msprop:Generator_RowEvArgName="MonitoringRowChangeEvent" msprop:Generator_RowClassName="MonitoringRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="DeviceId" msprop:Generator_ColumnVarNameInTable="columnDeviceId" msprop:Generator_ColumnPropNameInRow="DeviceId" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInTable="DeviceIdColumn" msprop:Generator_UserColumnName="DeviceId" type="xs:string" minOccurs="0" />
+              <xs:element name="Interval" msprop:Generator_ColumnVarNameInTable="columnInterval" msprop:Generator_ColumnPropNameInRow="Interval" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInTable="IntervalColumn" msprop:Generator_UserColumnName="Interval" type="xs:string" minOccurs="0" />
+              <xs:element name="Temperature" msprop:Generator_ColumnVarNameInTable="columnTemperature" msprop:Generator_ColumnPropNameInRow="Temperature" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInTable="TemperatureColumn" msprop:Generator_UserColumnName="Temperature" type="xs:string" minOccurs="0" />
+              <xs:element name="Humidity" msprop:Generator_ColumnVarNameInTable="columnHumidity" msprop:Generator_ColumnPropNameInRow="Humidity" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInTable="HumidityColumn" msprop:Generator_UserColumnName="Humidity" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

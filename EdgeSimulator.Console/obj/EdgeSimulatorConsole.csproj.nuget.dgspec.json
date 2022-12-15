@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\BITS\\Edge Computing\\Assignment\\AzureIotEdge_BitsAssignment_Completed\\EdgeSimulator.Console\\EdgeSimulatorConsole.csproj": {}
+  },
+  "projects": {
+    "F:\\BITS\\Edge Computing\\Assignment\\AzureIotEdge_BitsAssignment_Completed\\EdgeSimulator.Console\\EdgeSimulatorConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\BITS\\Edge Computing\\Assignment\\AzureIotEdge_BitsAssignment_Completed\\EdgeSimulator.Console\\EdgeSimulatorConsole.csproj",
+        "projectName": "EdgeSimulatorConsole",
+        "projectPath": "F:\\BITS\\Edge Computing\\Assignment\\AzureIotEdge_BitsAssignment_Completed\\EdgeSimulator.Console\\EdgeSimulatorConsole.csproj",
+        "packagesPath": "C:\\Users\\Amit\\.nuget\\packages\\",
+        "outputPath": "F:\\BITS\\Edge Computing\\Assignment\\AzureIotEdge_BitsAssignment_Completed\\EdgeSimulator.Console\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Amit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\BITS\\Edge Computing\\Assignment\\AzureIotEdge_BitsAssignment_Completed\\EdgeSimulator.Core\\EdgeSimulator.Core.csproj": {
+                "projectPath": "F:\\BITS\\Edge Computing\\Assignment\\AzureIotEdge_BitsAssignment_Completed\\EdgeSimulator.Core\\EdgeSimulator.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Azure.Devices": {
+              "target": "Package",
+              "version": "[1.37.0, )"
+            },
+            "Microsoft.Azure.Devices.Client": {
+              "target": "Package",
+              "version": "[1.40.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\BITS\\Edge Computing\\Assignment\\AzureIotEdge_BitsAssignment_Completed\\EdgeSimulator.Core\\EdgeSimulator.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\BITS\\Edge Computing\\Assignment\\AzureIotEdge_BitsAssignment_Completed\\EdgeSimulator.Core\\EdgeSimulator.Core.csproj",
+        "projectName": "EdgeSimulator.Core",
+        "projectPath": "F:\\BITS\\Edge Computing\\Assignment\\AzureIotEdge_BitsAssignment_Completed\\EdgeSimulator.Core\\EdgeSimulator.Core.csproj",
+        "packagesPath": "C:\\Users\\Amit\\.nuget\\packages\\",
+        "outputPath": "F:\\BITS\\Edge Computing\\Assignment\\AzureIotEdge_BitsAssignment_Completed\\EdgeSimulator.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Amit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

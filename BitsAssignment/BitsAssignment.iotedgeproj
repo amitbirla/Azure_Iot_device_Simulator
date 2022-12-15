@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>d5b2eb7c-d96d-491f-b1b0-8d1ea9c7713f</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EdgeTargetPlatform>Windows Amd64</EdgeTargetPlatform>
+    <EdgeTargetConfiguration>Release</EdgeTargetConfiguration>
+  </PropertyGroup>
+  <Import Project="$(MSBuildToolsRoot)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Azure IoT Edge Tools\AzureIoTEdgeProject.targets" />
+  <ItemGroup>
+    <None Include="deployment.template.json" />
+    <None Include="deployment.debug.template.json" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsRoot)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Azure IoT Edge Tools\AzureIoTEdgeProject.Build.targets" />
+  <Import Project="$(MSBuildToolsRoot)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Azure IoT Edge Tools\AzureIoTEdgeProject.Build.props" />
+</Project>

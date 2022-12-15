@@ -1,0 +1,126 @@
+{
+  "Interval": 5000,
+  "BatchSize": 1,
+  "Devices": [
+    {
+      "DeviceId": "BITS12345",
+      "Enabled": false,
+      "Datas": [
+        {
+          "DataKey": "Temperature",
+          "MinValue": 0,
+          "MaxValue": 40,
+          "Enabled": false
+        },
+        {
+          "DataKey": "Humidity",
+          "MinValue": 0,
+          "MaxValue": 100,
+          "Enabled": false
+        },
+        {
+          "DataKey": "Ambient",
+          "MinValue": 30,
+          "MaxValue": 70,
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "DeviceId": "BITS98765",
+      "Enabled": false,
+      "Datas": [
+        {
+          "DataKey": "Temperature",
+          "MinValue": 10,
+          "MaxValue": 70,
+          "Enabled": true
+        },
+        {
+          "DataKey": "O2",
+          "MinValue": 10,
+          "MaxValue": 70,
+          "Enabled": false
+        },
+        {
+          "DataKey": "Humidity",
+          "MinValue": 20,
+          "MaxValue": 50,
+          "Enabled": false
+        }
+      ]
+    },
+    {
+      "DeviceId": "BITS22222",
+      "Enabled": true,
+      "Datas": [
+        {
+          "DataKey": "Temperature",
+          "MinValue": 10,
+          "MaxValue": 70,
+          "Enabled": true
+        },
+        {
+          "DataKey": "Humidity",
+          "MinValue": 20,
+          "MaxValue": 50,
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "DeviceId": "BITS33333",
+      "Enabled": true,
+      "Datas": [
+        {
+          "DataKey": "Temperature",
+          "MinValue": 10,
+          "MaxValue": 70,
+          "Enabled": true
+        },
+        {
+          "DataKey": "Humidity",
+          "MinValue": 20,
+          "MaxValue": 50,
+          "Enabled": false
+        }
+      ]
+    },
+    {
+      "DeviceId": "BITS44444",
+      "Enabled": false,
+      "Datas": [
+        {
+          "DataKey": "Temperature",
+          "MinValue": 10,
+          "MaxValue": 70,
+          "Enabled": true
+        },
+        {
+          "DataKey": "Humidity",
+          "MinValue": 20,
+          "MaxValue": 50,
+          "Enabled": true
+        }
+      ]
+    },
+    {
+      "DeviceId": "BITS666666",
+      "Enabled": true,
+      "Datas": [
+        {
+          "DataKey": "Temperature",
+          "MinValue": 10,
+          "MaxValue": 70,
+          "Enabled": true
+        },
+        {
+          "DataKey": "Humidity",
+          "MinValue": 20,
+          "MaxValue": 50,
+          "Enabled": false
+        }
+      ]
+    }
+  ]
+}

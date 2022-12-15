@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EdgeSimulatorConsole": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
